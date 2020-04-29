@@ -11,11 +11,22 @@ menu:
 - page: 旅行
   url: /categories/travel/
   icon:
-- page: 技术
-  url: /categories/tech/
-  icon:
+- page: Linux
+  url: /categories/linux/
+- page: Python
+  url: /categories/python/
+- page: Lua
+  url: /categories/lua/
+- page: K8s
+  url: /categories/k8s/
+- page: ELK
+  url: /categories/elk/
+- page: Git
+  url: /categories/git/
+- page: Mysql
+  url: /categories/mysql/
 - page: 个人简历
-  url: /resume/
+  url: /cv
   icon:
 - page: 时间轴
   url: /archives/
@@ -29,7 +40,7 @@ rss: /atom.xml
 
 ## Carousel
 carousel:
-  img: '/img/my_head-img.jpg'
+  img: '/img/my_head-img2.jpg'
   url: 'javascript:'
 
 # 各个小工具的设置
@@ -61,13 +72,13 @@ jsonContent:
 social:
  - name: 邮箱
    icon: envelope-o
-   href: lotte1@163.com
+   href: /52734768
  - name: 联系QQ
    icon: qq
-   href: 52734768
+   href: /52734768
  - name: 微信
    icon: weixin
-   href: 52734768
+   href: /52734768
  - name: RSS
    icon: feed
    href: /atom.xml
